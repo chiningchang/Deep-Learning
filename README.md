@@ -2,6 +2,10 @@
 
 A beginner-friendly educational website by **Dr. Chi-Ning (Nick) Chang** introducing neural networks through illustrated explanations, guided diagrams, and selected interactive demonstrations. It is designed for use across courses and does not require programming knowledge.
 
+## Website
+
+**[Open the Deep Learning website](https://chiningchang.github.io/Deep-Learning/)**
+
 ## Explore the chapters
 
 | Chapter | What learners explore |
@@ -51,11 +55,9 @@ The files are arranged for static hosting from the repository root.
 3. Select **main** and **/ (root)**, then save.
 4. Wait for GitHub Pages to finish publishing.
 
-After Pages is enabled and deployment succeeds, the expected address is:
+The project’s GitHub Pages address is [https://chiningchang.github.io/Deep-Learning/](https://chiningchang.github.io/Deep-Learning/).
 
-**https://chiningchang.github.io/Deep-Learning/**
-
-This is the expected GitHub Pages address, not a claim that Pages has already been enabled. All chapter, script, stylesheet, and image references use relative paths so they work under the `/Deep-Learning/` project path. The `.nojekyll` file allows the static files to be served without Jekyll processing.
+All chapter, script, stylesheet, and image references use relative paths so they work under the `/Deep-Learning/` project path. The `.nojekyll` file allows the static files to be served without Jekyll processing.
 
 ## Files
 
