@@ -21,6 +21,7 @@ The overview is in [`index.html`](index.html). Each chapter has its own page and
 ## Teaching features
 
 - Original instructional diagrams with numbered, clickable explanations and previous/next controls.
+- Redrawn CNN, RNN, LSTM, and Transformer animations with synchronized explanations, Play/Pause, and Replay controls. Each step lasts about eight seconds.
 - Short **In plain language** notes explaining technical terms near the relevant material.
 - A prominent introduction to Vaswani et al. (2017), *Attention Is All You Need*, with links to the original publication.
 - A black, white, and gold design inspired by VCU’s color palette.
@@ -71,6 +72,7 @@ All chapter, script, stylesheet, and image references use relative paths so they
 | `app.js` | ANN structure, neuron, and activation-function activities |
 | `animation.js` | Forward pass, comparison, backpropagation, and parameter-update animation |
 | `training.js` | Small browser-based ANN training demonstration |
+| `concept-animations.js`, `concept-animations.css` | Shared conceptual animations and step-synchronized captions |
 | `diagram-guide.js` | Numbered diagram explanations and navigation |
 | `assets/` | Instructional figures |
 | `CREDITS.md` | Teaching-material and figure attributions |
@@ -80,6 +82,8 @@ All chapter, script, stylesheet, and image references use relative paths so they
 Edit the chapter HTML files to revise explanations. Keep IDs used by the ANN scripts when editing its interactive sections.
 
 Guided figures contain an `application/json` block with their explanations. The `data-spot-index` values on numbered markers and text buttons match that block’s item order. Marker positions are percentages of the image area, so they remain aligned as the image resizes.
+
+Animation captions and timing are in the `configs` object in `concept-animations.js`. The animations are conceptual illustrations, not trained models or computed feature maps. They start only when Play is pressed and respect reduced-motion preferences.
 
 To add another chapter, create an HTML page, use the shared stylesheet, and add it to the chapter navigation on every page and the overview. Preserve the original diagrams’ attributions when updating or replacing images.
 
