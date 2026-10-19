@@ -10,6 +10,6 @@ a.brand{color:white;text-decoration:none}.architecture-nav a{font-size:15px;padd
 
 .hero .hero-credit{margin:0 0 22px;color:#ededed;font-size:15px;line-height:1.6}.hero .hero-credit strong{font-weight:650}
 
-.architecture-stack>a{color:#111;text-decoration:none}.architecture-stack>a small{margin-left:auto;text-align:right}.architecture-stack>a .architecture-arrow{font-size:18px;font-weight:650}.architecture-stack>a:hover{background:#111;color:#ffb300}.architecture-stack>a:focus-visible{outline:3px solid #006894;outline-offset:3px}
+.architecture-stack>a{color:#111;text-decoration:none}.architecture-stack>a:focus-visible{outline:3px solid #006894;outline-offset:3px}
 
 .paper-spotlight h2{overflow-wrap:anywhere;font-size:clamp(24px,3vw,35px)}.paper-spotlight .paper-authors{color:#ededed;margin:0 0 12px}.paper-spotlight .paper-context{color:#ededed}.paper-spotlight .paper-secondary a{color:#ffdb7a;text-underline-offset:4px}.paper-spotlight .paper-secondary{color:#ededed;font-size:13px}
