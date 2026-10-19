@@ -23,7 +23,9 @@ The overview is in [`index.html`](index.html). Each chapter has its own page and
 - Original instructional diagrams with numbered, clickable explanations and previous/next controls.
 - Redrawn CNN, RNN, LSTM, and Transformer animations with synchronized explanations, Play/Pause, and Replay controls. Each step lasts about eight seconds.
 - Short **In plain language** notes explaining technical terms near the relevant material.
-- A prominent introduction to Vaswani et al. (2017), *Attention Is All You Need*, with links to the original publication.
+- A homepage milestone timeline with selectable historical explanations and direct chapter links.
+- Clickable architecture shortcuts in the homepage cover.
+- Landmark-paper introductions at the start of all five architecture chapters, including *Attention Is All You Need*.
 - A black, white, and gold design inspired by VCU’s color palette.
 - Responsive layouts, descriptive image text, and native buttons that support keyboard interaction.
 - Full-size image links for projection or closer reading.
@@ -64,7 +66,8 @@ All chapter, script, stylesheet, and image references use relative paths so they
 
 | Path | Purpose |
 | --- | --- |
-| `index.html` | Website overview and chapter navigation |
+| `index.html` | Website overview, development timeline, and chapter navigation |
+| `history.js`, `history.css` | Homepage milestone timeline and selected-paper links |
 | `ann.html` | ANN lesson and interactive activities |
 | `cnn.html`, `rnn.html`, `lstm.html` | Illustrated architecture lessons |
 | `transformer.html` | Transformer and generative AI lesson |

@@ -31,3 +31,16 @@ Vaswani, A., Shazeer, N., Parmar, N., Uszkoreit, J., Jones, L., Gomez, A. N., Ka
 - [AI Mission Adventure for Kids](https://chiningchang.github.io/AI-Mission-Adventure-for-Kids/)
 - [Transformer Explainer](https://poloclub.github.io/transformer-explainer/)
 - Optional videos are linked directly from the relevant lessons.
+
+## Additional landmark papers
+
+These are selected historical milestones, not claims that each architecture has a single inventor or starting date.
+
+- **ANN**: Warren S. McCulloch & Walter Pitts. (1943). [A Logical Calculus of the Ideas Immanent in Nervous Activity](https://doi.org/10.1007/BF02478259). McCulloch, W. S., & Pitts, W. (1943). Bulletin of Mathematical Biophysics, 5, 115–133.
+- **CNN**: Yann LeCun and colleagues. (1989). [Backpropagation Applied to Handwritten Zip Code Recognition](https://doi.org/10.1162/neco.1989.1.4.541). LeCun et al. (1989). Neural Computation, 1(4), 541–551.
+- **RNN**: Jeffrey L. Elman. (1990). [Finding Structure in Time](https://doi.org/10.1207/s15516709cog1402_1). Elman, J. L. (1990). Cognitive Science, 14(2), 179–211.
+- **LSTM**: Sepp Hochreiter & Jürgen Schmidhuber. (1997). [Long Short-Term Memory](https://doi.org/10.1162/neco.1997.9.8.1735). Hochreiter, S., & Schmidhuber, J. (1997). Neural Computation, 9(8), 1735–1780.
+
+Additional context: [Rosenblatt (1958), perceptron](https://doi.org/10.1037/h0042519); [Fukushima (1980), Neocognitron](https://doi.org/10.1007/BF00344251). The original 1997 LSTM predates the forget gate used in the common later three-gate design.
+
+- Gers, F. A., Schmidhuber, J., & Cummins, F. (2000). [Learning to Forget: Continual Prediction with LSTM](https://doi.org/10.1162/089976600300015015). Neural Computation, 12(10), 2451–2471.
