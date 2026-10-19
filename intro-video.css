@@ -1,4 +1,4 @@
-.film-intro{margin:3rem 0;padding:2.5rem 0;border-top:1px solid #d7d7d7;border-bottom:1px solid #d7d7d7}
+.film-intro{margin:3rem 0;padding:2.5rem 0;border-top:1px solid #d7d7d7;border-bottom:0}
 .film-intro h2{font-size:clamp(1.8rem,4vw,2.7rem);line-height:1.15;margin:.6rem 0 1rem;max-width:850px}
 .film-intro>p{max-width:780px}
 .film-player{display:block;width:100%;max-width:960px;aspect-ratio:16/9;height:auto;margin:1.5rem auto .75rem;background:#fff7e8;border:1px solid #d7d7d7;border-radius:12px}
