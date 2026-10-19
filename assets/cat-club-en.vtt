@@ -1,0 +1,59 @@
+WEBVTT
+
+00:00.000 --> 00:06.000
+[Light café jazz plays. A dog wearing fake cat ears
+approaches a robot at a CATS ONLY club.] Dog: Meow?
+
+00:06.000 --> 00:10.000
+[Forward pass: the robot makes a prediction.]
+Robot: Pointy ears. Definitely a cat!
+
+00:10.000 --> 00:13.000
+[The robot stamps APPROVED and lets the dog in.]
+
+00:13.000 --> 00:16.400
+[Compare: the prediction meets the correct label.]
+Dog: WOOF!
+
+00:16.400 --> 00:18.400
+Cat manager: That… is a dog.
+
+00:18.400 --> 00:21.000
+Robot: Oh.
+
+00:21.000 --> 00:26.000
+[Backpropagation: a correction signal travels backward.]
+Robot: I relied too much on the ears.
+
+00:26.000 --> 00:33.000
+[The diagram traces how the settings contributed
+to the mistake. No settings have changed yet.]
+
+00:33.000 --> 00:38.500
+[Update: the settings begin to change.]
+Cat manager: More examples. Keep practicing.
+
+00:38.500 --> 00:44.000
+Robot: Adjust. Try again.
+[Sliders for ears, other clues, and bias are adjusted.]
+
+00:44.000 --> 00:48.000
+[Later: the dog returns with even bigger fake cat ears.]
+Dog: Meow?
+
+00:48.000 --> 00:51.500
+Robot: Nice try.
+
+00:51.500 --> 00:54.700
+Dog: …Meow?
+[The cat looks unimpressed. The camera moves to “…”.]
+
+00:54.700 --> 00:57.700
+[An awkward pause. Only “…” remains. Jazz continues.]
+
+00:57.700 --> 01:00.200
+by Dr. Chi-Ning (Nick) Chang
+Music: Good Morning Café Jazz — sleepvolume, Pixabay.
+
+01:00.200 --> 01:01.000
+[The music ends. The picture fades to black.]

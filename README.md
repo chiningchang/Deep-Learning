@@ -20,6 +20,8 @@ The overview is in [`index.html`](index.html). Each chapter has its own page and
 
 ## Teaching features
 
+- A 61-second Cat Club opening film with manual playback, optional English captions, an expandable summary and descriptive transcript, and a reflection question.
+
 - Original instructional diagrams with numbered, clickable explanations and previous/next controls.
 - Redrawn CNN, RNN, LSTM, and Transformer animations with synchronized explanations, Play/Pause, and Replay controls. Each step lasts about eight seconds.
 - Short **In plain language** notes explaining technical terms near the relevant material.
@@ -77,7 +79,8 @@ All chapter, script, stylesheet, and image references use relative paths so they
 | `training.js` | Small browser-based ANN training demonstration |
 | `concept-animations.js`, `concept-animations.css` | Shared conceptual animations and step-synchronized captions |
 | `diagram-guide.js` | Numbered diagram explanations and navigation |
-| `assets/` | Instructional figures |
+| `assets/` | Instructional figures, Cat Club video, poster, and English WebVTT captions |
+| `intro-video.css` | Homepage video and reading alternatives |
 | `CREDITS.md` | Teaching-material and figure attributions |
 
 ## Maintain or extend the site

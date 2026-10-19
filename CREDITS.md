@@ -44,3 +44,11 @@ These are selected historical milestones, not claims that each architecture has 
 Additional context: [Rosenblatt (1958), perceptron](https://doi.org/10.1037/h0042519); [Fukushima (1980), Neocognitron](https://doi.org/10.1007/BF00344251). The original 1997 LSTM predates the forget gate used in the common later three-gate design.
 
 - Gers, F. A., Schmidhuber, J., & Cummins, F. (2000). [Learning to Forget: Continual Prediction with LSTM](https://doi.org/10.1162/089976600300015015). Neural Computation, 12(10), 2451–2471.
+
+## Cat Club opening film
+
+Film by **Dr. Chi-Ning (Nick) Chang**, with AI-assisted illustrations. The narrative is a conceptual teaching analogy, not a trained classifier.
+
+Music: **Good Morning Café Jazz** by **sleepvolume**, [source on Pixabay](https://pixabay.com/music/traditional-jazz-good-morning-caf%C3%A9-jazz-227888/), used under the [Pixabay Content License](https://pixabay.com/service/license-summary/). Original comic sound effects accompany the film.
+
+The homepage includes optional English WebVTT captions, a summary, and a scene-by-scene descriptive transcript.
